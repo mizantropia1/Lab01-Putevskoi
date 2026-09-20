@@ -1,0 +1,15 @@
+C:\Users\putev\Documents\Lab01\Visitka\bin\Debug\net10.0\Visitka.exe
+C:\Users\putev\Documents\Lab01\Visitka\bin\Debug\net10.0\Visitka.deps.json
+C:\Users\putev\Documents\Lab01\Visitka\bin\Debug\net10.0\Visitka.runtimeconfig.json
+C:\Users\putev\Documents\Lab01\Visitka\bin\Debug\net10.0\Visitka.dll
+C:\Users\putev\Documents\Lab01\Visitka\bin\Debug\net10.0\Visitka.pdb
+C:\Users\putev\Documents\Lab01\Visitka\obj\Debug\net10.0\Visitka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\putev\Documents\Lab01\Visitka\obj\Debug\net10.0\Visitka.AssemblyInfoInputs.cache
+C:\Users\putev\Documents\Lab01\Visitka\obj\Debug\net10.0\Visitka.AssemblyInfo.cs
+C:\Users\putev\Documents\Lab01\Visitka\obj\Debug\net10.0\Visitka.csproj.CoreCompileInputs.cache
+C:\Users\putev\Documents\Lab01\Visitka\obj\Debug\net10.0\Visitka.sourcelink.json
+C:\Users\putev\Documents\Lab01\Visitka\obj\Debug\net10.0\Visitka.dll
+C:\Users\putev\Documents\Lab01\Visitka\obj\Debug\net10.0\refint\Visitka.dll
+C:\Users\putev\Documents\Lab01\Visitka\obj\Debug\net10.0\Visitka.pdb
+C:\Users\putev\Documents\Lab01\Visitka\obj\Debug\net10.0\Visitka.genruntimeconfig.cache
+C:\Users\putev\Documents\Lab01\Visitka\obj\Debug\net10.0\ref\Visitka.dll
