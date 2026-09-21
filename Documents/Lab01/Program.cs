@@ -112,3 +112,28 @@ Console.WriteLine($"Остаток в конце месяца:  {monthBalance} �
 Console.WriteLine($"Месяцев в семестре: {MonthsInSemester}");
 Console.WriteLine($"Итого за семестр:  {semesterBalance} руб.");
 Console.WriteLine("=================================");
+
+
+Console.WriteLine();
+Console.WriteLine("Ловушка целочисленного деления из шага 14");
+
+int totalMinutes = 500;
+int minutesPerLesson = 45;
+
+// Сколько полных занятий уместится — здесь totalMinutes / minutesPerLesson = 11, это целочисленное деление, дробная часть отбрасывается
+int fullLessons = totalMinutes / minutesPerLesson;
+
+// Сколько минут останется от неполного занятия
+// Оператор % возвращает остаток от деления: 500 % 45 = 5
+int remainingMinutes = totalMinutes % minutesPerLesson;
+
+double wrongAverage = totalMinutes / minutesPerLesson;
+
+double correctAverage = (double)totalMinutes / minutesPerLesson;
+
+Console.WriteLine($"Всего минут: {totalMinutes}");
+Console.WriteLine($"Минут на занятие: {minutesPerLesson}");
+Console.WriteLine($"Полных занятий: {fullLessons}");
+Console.WriteLine($"Остаток минут: {remainingMinutes}");
+Console.WriteLine();
+Console.WriteLine($"500 минут = {fullLessons} полных занятий + {remainingMinutes} минут");
