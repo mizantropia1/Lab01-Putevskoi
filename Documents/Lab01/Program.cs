@@ -120,7 +120,7 @@ Console.WriteLine("Ловушка целочисленного деления и
 int totalMinutes = 500;
 int minutesPerLesson = 45;
 
-// Сколько полных занятий уместится — здесь totalMinutes / minutesPerLesson = 11, это целочисленное деление, дробная часть отбрасывается
+// Сколько полных занятий уместится — totalMinutes / minutesPerLesson = 11, это целочисленное деление, дробная часть отбрасывается
 int fullLessons = totalMinutes / minutesPerLesson;
 
 // Сколько минут останется от неполного занятия
