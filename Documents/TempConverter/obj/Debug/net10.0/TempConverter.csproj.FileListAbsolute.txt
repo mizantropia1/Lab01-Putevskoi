@@ -1,0 +1,15 @@
+C:\Users\putev\Documents\TempConverter\bin\Debug\net10.0\TempConverter.exe
+C:\Users\putev\Documents\TempConverter\bin\Debug\net10.0\TempConverter.deps.json
+C:\Users\putev\Documents\TempConverter\bin\Debug\net10.0\TempConverter.runtimeconfig.json
+C:\Users\putev\Documents\TempConverter\bin\Debug\net10.0\TempConverter.dll
+C:\Users\putev\Documents\TempConverter\bin\Debug\net10.0\TempConverter.pdb
+C:\Users\putev\Documents\TempConverter\obj\Debug\net10.0\TempConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\putev\Documents\TempConverter\obj\Debug\net10.0\TempConverter.AssemblyInfoInputs.cache
+C:\Users\putev\Documents\TempConverter\obj\Debug\net10.0\TempConverter.AssemblyInfo.cs
+C:\Users\putev\Documents\TempConverter\obj\Debug\net10.0\TempConverter.csproj.CoreCompileInputs.cache
+C:\Users\putev\Documents\TempConverter\obj\Debug\net10.0\TempConverter.sourcelink.json
+C:\Users\putev\Documents\TempConverter\obj\Debug\net10.0\TempConverter.dll
+C:\Users\putev\Documents\TempConverter\obj\Debug\net10.0\refint\TempConverter.dll
+C:\Users\putev\Documents\TempConverter\obj\Debug\net10.0\TempConverter.pdb
+C:\Users\putev\Documents\TempConverter\obj\Debug\net10.0\TempConverter.genruntimeconfig.cache
+C:\Users\putev\Documents\TempConverter\obj\Debug\net10.0\ref\TempConverter.dll
