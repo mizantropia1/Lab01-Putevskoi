@@ -89,3 +89,26 @@ double priceWithVat = productPrice * (1 + VatRate);
 
 Console.WriteLine($" Учебное заведение: {CollegeName}");
 Console.WriteLine($"Цена без НДС: {productPrice}, с НДС ({VatRate: P0}): {priceWithVat}");
+
+
+// Используем int, потому что суммы — целые числа
+int scholarship = 810;      // стипендия за месяц, руб.
+int monthlyExpenses = 4000;  // траты на еду и проезд за месяц, руб.
+
+// Считаем, сколько денег остаётся после одного месяца
+int monthBalance = scholarship - monthlyExpenses;
+
+// В семестре 4 учебных месяца — это значение не меняется, поэтому const
+const int MonthsInSemester = 4;
+
+// Считаем остаток за весь семестр
+int semesterBalance = monthBalance * MonthsInSemester;
+
+Console.WriteLine();
+Console.WriteLine("===== Финансовый мини-расчёт =====");
+Console.WriteLine($"Стипендия в месяц: {scholarship} руб.");
+Console.WriteLine($"Расходы в месяц:  {monthlyExpenses} руб.");
+Console.WriteLine($"Остаток в конце месяца:  {monthBalance} руб.");
+Console.WriteLine($"Месяцев в семестре: {MonthsInSemester}");
+Console.WriteLine($"Итого за семестр:  {semesterBalance} руб.");
+Console.WriteLine("=================================");
