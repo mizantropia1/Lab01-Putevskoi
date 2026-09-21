@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\putev\\Documents\\Visitka\\Visitka.csproj": {}
+    "C:\\Users\\putev\\Documents\\Lab01-Putevskoi\\Documents\\Visitka\\Visitka.csproj": {}
   },
   "projects": {
-    "C:\\Users\\putev\\Documents\\Visitka\\Visitka.csproj": {
+    "C:\\Users\\putev\\Documents\\Lab01-Putevskoi\\Documents\\Visitka\\Visitka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\putev\\Documents\\Visitka\\Visitka.csproj",
+        "projectUniqueName": "C:\\Users\\putev\\Documents\\Lab01-Putevskoi\\Documents\\Visitka\\Visitka.csproj",
         "projectName": "Visitka",
-        "projectPath": "C:\\Users\\putev\\Documents\\Visitka\\Visitka.csproj",
+        "projectPath": "C:\\Users\\putev\\Documents\\Lab01-Putevskoi\\Documents\\Visitka\\Visitka.csproj",
         "packagesPath": "C:\\Users\\putev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\putev\\Documents\\Visitka\\obj\\",
+        "outputPath": "C:\\Users\\putev\\Documents\\Lab01-Putevskoi\\Documents\\Visitka\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\putev\\AppData\\Roaming\\NuGet\\NuGet.Config"
